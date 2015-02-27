@@ -41,8 +41,8 @@ group :development, :test do
   # gem 'spring'
   gem 'pry-rails'
   gem 'rspec-rails'
-  # gem 'selenium-webdriver'
-  # gem 'capybara'
+  gem 'selenium-webdriver'
+  gem 'capybara'
   gem 'capybara-webkit'
   gem 'jasmine-rails'
 end
